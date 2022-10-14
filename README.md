@@ -19,4 +19,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dayjyun&show_icons=true&locale=en" alt="dayjyun" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dayjyun&" alt="dayjyun" /></p>
