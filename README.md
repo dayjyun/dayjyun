@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **JavaScript, React, Express**
 
-- ⚡ Outside of coding **I'm a musician and enjoy writing songs**
+- 🎹 Outside of coding **I'm a musician and enjoy writing songs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
