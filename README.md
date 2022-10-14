@@ -1,12 +1,11 @@
 ![MasterHead](https://gifimage.net/wp-content/uploads/2018/04/obi-wan-hello-there-gif-8.gif)
-<h1 align="center">Hello there! I'm Kevin Barrios</h1>
-<h3 align="center">A curious full-stack developer from Chicago</h3>
+<h3 align="center">My name is Kevin Barrios and I am a curious full-stack developer from Chicago</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dayjyun" alt="dayjyun" /></a> </p>
+<p align="left"></p>
 
 - 💬 Ask me about **JavaScript, React, Express**
 
-- ⚡ Fun fact **I'm a musician and enjoy writing songs**
+- ⚡ Outside of coding **I'm a musician and enjoy writing songs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
