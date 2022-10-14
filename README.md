@@ -17,5 +17,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dayjyun&show_icons=true&locale=en&layout=compact" alt="dayjyun" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dayjyun&show_icons=true&locale=en" alt="dayjyun" /></p>
-
