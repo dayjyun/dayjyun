@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Kevin Barrios</h1>
+<h1 align="center">Hello there! I'm Kevin Barrios</h1>
 <h3 align="center">A curious full-stack developer from Chicago</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dayjyun" alt="dayjyun" /></a> </p>
 
-- 💬 Ask me about **Android, JavaScript, React**
+- 💬 Ask me about **JavaScript, React, Express**
 
 - ⚡ Fun fact **I'm a musician and enjoy writing songs**
 
