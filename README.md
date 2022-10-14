@@ -1,3 +1,4 @@
+[![MasterHead](https://gifimage.net/wp-content/uploads/2018/04/obi-wan-hello-there-gif-8.gif)]
 <h1 align="center">Hello there! I'm Kevin Barrios</h1>
 <h3 align="center">A curious full-stack developer from Chicago</h3>
 
