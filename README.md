@@ -1,5 +1,5 @@
 
-<h3 align="center">Curious full-stack developer from Chicago</h3>
+<h3 align="center">Full-stack developer from Chicago</h3>
 
 <p align="left"></p>
 
