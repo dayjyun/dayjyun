@@ -1,5 +1,5 @@
 
-<h3 align="center">Full-stack developer from Chicago</h3>
+<h2 align="center">Full-stack developer from Chicago</h2>
 
 <p align="left"></p>
 
@@ -13,8 +13,3 @@
 <p align="left">
 <a href="https://linkedin.com/in/kevinbarrios12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kevinbarrios12" height="20" width="30" /></a>
 </p>
-
-
-
-
-
