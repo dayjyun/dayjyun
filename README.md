@@ -3,11 +3,11 @@
 
 <p align="left"></p>
 
-<h2>- 🎓 App Academy graduate as a Full-Stack Software Engineer</h2>
+- 🎓 App Academy graduate as a Full-Stack Software Engineer
 
-<h2>- 💬 Ask me about **JavaScript, React, Express**</h2>
+- 💬 Ask me about **JavaScript, React, Express**
 
-<h2>- 🎹 Outside of coding **I'm a musician and enjoy writing songs**</h2>
+- 🎹 Outside of coding **I'm a musician and enjoy writing songs**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dayjyun&show_icons=true&tile_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&locale=en&layout=compact" alt="dayjyun" /></p>
 
