@@ -1,11 +1,11 @@
 
 <h2 align='center'>Kevin Barrios - Full-Stack Software Engineer</h2>
 
-<h3>- 🎓 App Academy graduate as a Full-Stack Software Engineer</h3>
+<h4>- 🎓 App Academy graduate as a Full-Stack Software Engineer</h4>
 
-<h3>- 💬 Ask me about **JavaScript, React, Express**</h3>
+<h4>- 💬 Ask me about **JavaScript, React, Express**</h4>
 
-<h3>- 🎹 Outside of coding **I'm a musician, enjoy learning about space, and love cats**</h3>
+<h4>- 🎹 Outside of coding **I'm a musician, enjoy learning about space, and love cats**</h4>
 <p style='padding-top: 10px'>
     <img align="bottom" src="https://github-readme-stats.vercel.app/api/top-langs?username=dayjyun&show_icons=true&tile_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&locale=en&layout=compact" alt="dayjyun" />
 </p>
