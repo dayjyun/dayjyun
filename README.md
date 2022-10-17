@@ -1,15 +1,14 @@
 
 <h1 align='center'>Kevin Barrios - Full-Stack Software Engineer</h1>
 
-<p align="left"></p>
+<h3>- 🎓 App Academy graduate as a Full-Stack Software Engineer</h3>
 
-- 🎓 App Academy graduate as a Full-Stack Software Engineer
+<h3>- 💬 Ask me about **JavaScript, React, Express**</h3>
 
-- 💬 Ask me about **JavaScript, React, Express**
-
-- 🎹 Outside of coding **I'm a musician and enjoy writing songs**
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dayjyun&show_icons=true&tile_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&locale=en&layout=compact" alt="dayjyun" /></p>
+<h3>- 🎹 Outside of coding **I'm a musician, enjoy learning about space, and love cats**</h3>
+<p style='padding-top: 10px'>
+    <img align="bottom" src="https://github-readme-stats.vercel.app/api/top-langs?username=dayjyun&show_icons=true&tile_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&locale=en&layout=compact" alt="dayjyun" />
+</p>
 
 <h3>Backend</h3>
 <p align="left">
@@ -43,14 +42,14 @@
 
 <h3>Other</h3>
 <p align="left">
-    <a href="https://heroku.com" target="_blank" rel="noreferrer" title='Heroku'>
-        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
     <a href="https://postman.com" target="_blank" rel="noreferrer" title='Postman'>
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer" title='Docker'>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+    <a href="https://heroku.com" target="_blank" rel="noreferrer" title='Heroku'>
+        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer" title='Amazon Web Service (AWS)'>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer" title='Docker'>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
     <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer" title='Flask'>
         <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title='git'>
