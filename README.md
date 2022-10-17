@@ -7,7 +7,7 @@
 
 - ✨ Outside of coding **I'm a musician, enjoy learning about space, and love cats**
 <p style='padding-top: 10px'>
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=dayjyun&show_icons=true&tile_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&locale=en&layout=compact" alt="dayjyun" />
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=dayjyun&show_icons=true&tile_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&locale=en&layout=compact" alt="dayjyun" />
 </p>
 
 <h3>Backend</h3>
