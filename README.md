@@ -1,5 +1,5 @@
 
-<h1 align='center'>Kevin Barrios - Full-Stack Software Engineer</h1>
+<h2 align='center'>Kevin Barrios - Full-Stack Software Engineer</h2>
 
 <h3>- 🎓 App Academy graduate as a Full-Stack Software Engineer</h3>
 
