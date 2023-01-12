@@ -57,8 +57,8 @@
 
 <h2 align="left">Discover more about me</h2>
 <p align="left">
-    <a href="https://linkedin.com/in/kevinbarrios12" target="blank" title='LinkedIn'>
+    <a href="https://linkedin.com/in/kevinbarrios12" target="_blank" title='LinkedIn'>
         <img align="center" src="https://dayjyun.s3.amazonaws.com/linkedin.png" alt="kevinbarrios12" height="40" width="40" /></a>
-    <a href='https://angel.co/u/kevin-barrios'title='AngelList'>
+    <a href='https://angel.co/u/kbarrios'title='Wellfound (AngelList)' target="_blank">
         <img src='https://dayjyun.s3.amazonaws.com/angel+list+logo_icon.png' alt='kevin-barrios' align='center' height='40' width='40'/></a>
 </p>
