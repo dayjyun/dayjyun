@@ -62,7 +62,7 @@
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
-<h2 align="left">Connect with me</h2>
+<h2 align="left">Connect With Me</h2>
 <p align="left">
     <a href="https://kbarrios.dev/" title="Portfolio" target="_blank">
         <img src="https://dayjyun.s3.amazonaws.com/user_icon_white.png" alt="portfolio" align="center" height="40" width="40"/></i></a>
