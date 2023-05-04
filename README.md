@@ -1,10 +1,9 @@
-<h2 align='center'>Kevin Barrios - Full-Stack Software Engineer</h2>
+<h1 align="center">Kevin Barrios</h1>
+<h2 align='center'>Full-Stack Software Engineer</h2>
 
-- 🎓 App Academy graduate as a Full-Stack Software Engineer
+- ⌨️ Passionate programmer with a love and curiosity for technology
 
-- 💡 Ask me about **JavaScript, React,** and **Express**
-
-- ✨ Outside of coding **I'm a musician, enjoy learning about space, and love cats**
+- 🌟 Outside of coding I'm a musician, enjoy learning about space, and love cats
 <p style='padding-top: 10px'>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dayjyun&show_icons=true&tile_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&locale=en&layout=compact" alt="dayjyun" />
 </p>
