@@ -8,7 +8,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dayjyun&show_icons=true&tile_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&locale=en&layout=compact" alt="dayjyun" />
 </p>
 
-<h3>Backend</h3>
+<h2>Backend</h2>
 <p align="left">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title='JavaScript'>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
@@ -30,7 +30,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
 </p>
 
-<h3>Frontend</h3>
+<h2>Frontend</h2>
 <p align="left">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title='JavaScript'>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
@@ -48,7 +48,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
 </p>
 
-<h3>Other</h3>
+<h2>More</h2>
 <p align="left">
     <a href="https://postman.com" target="_blank" rel="noreferrer" title='Postman'>
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
@@ -62,8 +62,10 @@
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
-<h2 align="left">Discover more about me</h2>
+<h2 align="left">Connect with me</h2>
 <p align="left">
+    <a href="https://kbarrios.dev/" title="Portfolio" target="_blank">
+        <img src="https://dayjyun.s3.amazonaws.com/user_icon_white.png" alt="portfolio" align="center" height="40" width="40"/></i></a>
     <a href="https://linkedin.com/in/kevinbarrios12" target="_blank" title='LinkedIn'>
         <img align="center" src="https://dayjyun.s3.amazonaws.com/linkedin.png" alt="kevinbarrios12" height="40" width="40" /></a>
     <a href='https://angel.co/u/kbarrios'title='Wellfound (AngelList)' target="_blank">
