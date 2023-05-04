@@ -1,5 +1,5 @@
-<h1 align="center">Kevin Barrios</h1>
-<h3 align='center'>Full-Stack Software Engineer</h3>
+<h1 align="center">Kevin Barrios - Full Stack Software Engineer</h1>
+<!-- <h3 align='center'>Full-Stack Software Engineer</h3> -->
 
 - ⌨️ Passionate programmer with a love and curiosity for technology
 
@@ -58,7 +58,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer" title='Docker'>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title='git'>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title='Git'>
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
